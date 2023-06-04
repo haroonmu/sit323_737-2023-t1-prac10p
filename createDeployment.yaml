@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: haroon-app
-          image: /var/lib/docker/examplenode
+          image: gcr.io/ sit737-23t1-haroon-e38615e/welcome_image
           ports:
             - containerPort: 3000
